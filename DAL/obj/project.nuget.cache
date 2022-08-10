@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FR28nNrMKXBwFVK+9eEJTxqNW8sJTiZmFFfud/Zl26H2nd0jrt2Hija8CAPkQn+4xbhXqtg9SQRiJ3iv8SGTSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\084075\\Desktop\\Projetos\\wsIntegracaoXMLPadraoTrack\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\084075\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
